@@ -1,5 +1,5 @@
 # Relay-Timer
-Simple relay timer
+Simple relay timer that can be added to basically anything. I am using it to automatically disable my soldering iron and bench power supply to avoid a fire hazard incase I forgot to turn them off.
 
 # What does it do?
 
