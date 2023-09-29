@@ -16,6 +16,7 @@ Simple relay timer
 # How to wire it?
 
 If using arduino nano connect the parts like this (Left is the part side right is arduino);
+
 SSD1306 SCREEN
 VCC --> 3.3 V
 GND --> GND
@@ -23,10 +24,12 @@ SDA --> A4
 SCL/SCK --> A5
 
 Relay module
+
 VCC --> 5V
 GND --> GND
 SIGNAL --> D5
 
 Button (Any 2 pin will work)
+
 Pin 1 --> GND
 Pin 2 --> D7
