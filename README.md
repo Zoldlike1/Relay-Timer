@@ -27,9 +27,13 @@ Relay module
 
 VCC --> 5V
 GND --> GND
+
 SIGNAL --> D5
 
 Button (Any 2 pin will work)
 
 Pin 1 --> GND
 Pin 2 --> D7
+
+
+![20230929_190732](https://github.com/Zoldlike1/Relay-Timer/assets/135172004/398fa38b-4b58-4df3-b51f-febe0a0b3edd)
